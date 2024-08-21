@@ -1,0 +1,12 @@
+
+*.sql
+build/tmp/compileJava/compileTransaction/stash-dir/UserRepository.class.uniqueId0
+build/tmp/compileJava/previous-compilation-data.bin
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+gradlew
+gradlew.bat
+HELP.md
+src/main/resources/application-dev.properties
+src/main/resources/application-local.properties
+src/main/resources/application.properties
